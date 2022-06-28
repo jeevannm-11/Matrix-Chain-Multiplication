@@ -2,6 +2,7 @@
 The code attached is used to find the most efficient way to multiply a sequence of matrices.
 The problem here is not actually to perform the multiplications, but merely to decide in which order to perform the multiplications.
 
+Illustration:
 Input: p[] = {4, 2, 3, 1, 3}   
 Output: 26
 There are 4 matrices of dimensions 4x2, 2x3, 3x1 and 1x3.
